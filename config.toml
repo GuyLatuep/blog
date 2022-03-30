@@ -1,5 +1,5 @@
 theme = "hugo-sugoi"
-baseURL = "https://example.com"
+baseURL = "https://guylatuep.github.io/blog/"
 languageCode = "de-de"
 title = "Teilzeitrebell"
 summaryLength = 20
