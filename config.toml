@@ -1,5 +1,5 @@
 theme = "hugo-sugoi"
-baseURL = "https://teilzeitrebell.de"
+baseURL = "https://blog.teilzeitrebell.de"
 languageCode = "de-de"
 title = "Teilzeitrebell"
 summaryLength = 20
